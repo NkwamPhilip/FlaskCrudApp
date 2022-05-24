@@ -44,8 +44,9 @@ table {
     padding: 20px;
     text-align: center; 
     width: 500px;
-    box-shadow:0 0 15px rgba(0, 0, 0, 0.408);
+    box-shadow:0 0 15px rgba(0, 0, 0, 0.482);
     margin-left: -30px;
+    background-color: rgba(14, 3, 3, 0.463);
 }
 
 th {
@@ -78,7 +79,7 @@ td {
     transition: .3s border-color;
     padding: 20px;
     text-align: center; 
-    box-shadow:0 0 50px rgba(0, 0, 0, 0.402);
+    box-shadow:0 0 50px rgba(0, 0, 0, 0.731);
     width: 96%;
     margin-top: 40px;
     font-size: larger;
@@ -101,4 +102,10 @@ td {
     background-color: rgb(141, 103, 65);
     margin-top: 40px;
     margin-left: 150px;
+}
+
+.phil {
+    color: white;
+    text-align: center;
+    margin-top: -10%;
 }
