@@ -101,11 +101,14 @@ td {
     color: white;
     background-color: rgb(141, 103, 65);
     margin-top: 40px;
-    margin-left: 150px;
+    margin-left: 190px;
+    align-items: center;
 }
 
 .phil {
     color: white;
     text-align: center;
     margin-top: -10%;
+    font-size: small;
+    margin-left: 7%;
 }
