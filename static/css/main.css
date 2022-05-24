@@ -83,7 +83,7 @@ td {
     width: 96%;
     margin-top: 40px;
     font-size: larger;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
   }
 
 .type-1:hover {
@@ -111,4 +111,23 @@ td {
     margin-top: -10%;
     font-size: small;
     margin-left: 7%;
+}
+
+.content-1 {
+    width: 500px;
+    margin-top: 40%;
+    margin-left: 70%;
+    background-color: rgba(48, 45, 45, 0.506);
+    border-radius:10px;
+    border: 0.2px solid #eee;
+    transition: .3s border-color;
+    padding: 20%;
+    position: relative;
+    display: block;
+    box-shadow:0 0 30px rgba(0, 0, 0, 0.428);
+} .form-1{
+    margin-top: 15px;
+    color: rgba(255, 255, 255, 0.606);
+    width: 93%;
+    color: white;
 }

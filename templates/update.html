@@ -4,12 +4,12 @@
 <title> flask </title>
 {% endblock %}
 {% block body %}
-<h1 style="text-align: center; color: white;">Update Tasks</h1>
-<div class="content">
-    <div class="form">
+<div class="content-1">
+    <h1 style="text-align: center; color: white; margin-top: -10%;">Update Tasks</h1>
+    <div class="form-1">
         <form action="/update/{{task.id}}" method="POST">
             <input class="type-1" type="text" name="content" id="content">
-            <input class="type-2" type="submit" value="Add Task">
+            <input style="margin-bottom: 30px;" class="type-2" type="submit" value="Add Task">
         </form>
     </div>
 </div>
