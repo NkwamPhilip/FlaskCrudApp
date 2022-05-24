@@ -4,7 +4,7 @@ body {
     font-family: sans-serif;
     background-image: url('images/pic3.jpg');
     background-size: 100%;
-    position: fixed;
+    position: absolute;
 }
 
 
